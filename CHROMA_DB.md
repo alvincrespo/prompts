@@ -24,4 +24,4 @@ Set up a new ChromaDB project with local persistent storage. Do the following:
 8. Create a Jupyter notebook called `main.ipyn` with a few starter cells:
     - A cell that loads the `.env` file using `python-dotenv` and imports `openai`
     - A cell that instantiates a ChromaDB client with local persistent storage pointed at a `./chroma_data` directory
-    - A cell that `reates or retrieves a collection called `my_collection` and prints a confirmation
+    - A cell that reates or retrieves a collection called `my_collection` and prints a confirmation
